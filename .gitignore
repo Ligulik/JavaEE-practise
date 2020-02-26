@@ -10,8 +10,11 @@
 /jdbcEE/out/
 /jdbcEE/.idea/
 
-/JDBCproject/out
+/JDBCproject/out/
 /JDBCproject/.idea/
 
-/conectionPooling/out
+/conectionPooling/out/
 /conectionPooling/.idea/
+
+/datasource/out/
+/datasource/.idea/
