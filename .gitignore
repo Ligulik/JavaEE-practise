@@ -18,3 +18,6 @@
 
 /datasource/out/
 /datasource/.idea/
+
+/Anti_SQL_Injection/out/
+/Anti_SQL_Injection/.idea/
